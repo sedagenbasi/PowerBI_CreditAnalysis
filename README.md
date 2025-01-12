@@ -56,7 +56,13 @@ CALCULATE(
 - Dinamik tooltipler ve etkileşimli raporlarla, kullanıcıların iş kararlarını destekleyecek içgörüler sağlanmıştır.
 - DAX ile hesaplanan metrikler, performans analizlerini kolaylaştırmıştır.
 
+## Nasıl Kullanılır?
+1. Bu repo'dan `ANA PROJE-SEDA GENBAŞI.pbix` dosyasını indir.
+2. Power BI Desktop'ta açıp ve inceleyebilirsiniz.
 
+## İletişim
+Sorularınız veya geri bildirimleriniz için bana ulaşabilirsiniz:  
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/seda-genbasi-/))
 
 
 
