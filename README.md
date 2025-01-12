@@ -28,7 +28,8 @@ Bu proje, bir finans kurumunun kredi analizini ve performans değerlendirmesini 
 - Ay bazında performans metrikleri dinamik olarak tooltiplerle analiz edildi.
 - Yıllara göre satış trendleri grafiğinde yılın çeyreklerine göre toplam satış, toplam hedefin altında ise sarı renk, üstünde ise kırmızı renk ile dinamik bir tooltip oluşturulmuştur.
 - Aylara göre toplam satış ve satış hedefi analizi grafiğinde satış hedefi 1.10 sabit değer belirlenmiştir.
-   ![Bölge Detayları Sayfası]()
+   ![Bölge Detayları Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/b%C3%B6lge-ege.png)
+  
 ### Sayfa 3- Performnas Analizi
 - Bu sayfada şehirler bazında en yüksek ve en düşük performanslı konum ve bölgeleri daha net şekilde göstermek hedeflenmiştir.
 - Sayfanın sağ üst köşesindeki sayfa gezginlerine (ctrl+ yardımıyla) tıklandığında en düşük ve en yüksek performans değerleri üstteki iki grafikte gösterilmiştir.
@@ -49,6 +50,7 @@ CALCULATE(
     TOPN(1, SUMMARIZE('Şubeler', 'Şubeler'[Konum], "ToplamSatış", SUM(Krediler[Satış])), [ToplamSatış], DESC)
 )
 ```
+![Performans Analizi Sayfası]()
 ## Proje Sonucu
 - Verilerin görselleştirilmesi ve analiz edilmesi sonucunda, kredi türleri, bölgesel ve şehir bazlı performanslar net bir şekilde ortaya konulmuştur.
 - Dinamik tooltipler ve etkileşimli raporlarla, kullanıcıların iş kararlarını destekleyecek içgörüler sağlanmıştır.
