@@ -20,13 +20,15 @@ Bu proje, bir finans kurumunun kredi analizini ve performans değerlendirmesini 
 - Kartlar yardımıyla toplam satış ve hedef değerleri ve hedef gerçekleşme oranı eklenmiştir.
 - Grafiklerde toplam satış ve toplam hedef değerleri karşılaştırmaları hedeflenmiştir.
 - Bölge ve şehir(şube kodu) bazında grafikler eklenerek genel bir bakış kazanılmaya çalışılmıştır.
-  
+ ![Genel Bakış Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/genel%20bak%C4%B1%C5%9F-t%C3%BCm%C3%BC.png)
+
 ### Sayfa 2- Bölge Detayları
 - Bu sayfada bölgesel satışlar ve diğer performans metrikleri görselleştirildi.
 - Ege Bölgesi özelinde detaylı analizler gerçekleştirildi.
 - Ay bazında performans metrikleri dinamik olarak tooltiplerle analiz edildi.
 - Yıllara göre satış trendleri grafiğinde yılın çeyreklerine göre toplam satış, toplam hedefin altında ise sarı renk, üstünde ise kırmızı renk ile dinamik bir tooltip oluşturulmuştur.
 - Aylara göre toplam satış ve satış hedefi analizi grafiğinde satış hedefi 1.10 sabit değer belirlenmiştir.
+   ![Bölge Detayları Sayfası]()
 ### Sayfa 3- Performnas Analizi
 - Bu sayfada şehirler bazında en yüksek ve en düşük performanslı konum ve bölgeleri daha net şekilde göstermek hedeflenmiştir.
 - Sayfanın sağ üst köşesindeki sayfa gezginlerine (ctrl+ yardımıyla) tıklandığında en düşük ve en yüksek performans değerleri üstteki iki grafikte gösterilmiştir.
