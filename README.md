@@ -20,6 +20,7 @@ Bu proje, bir finans kurumunun kredi analizini ve performans değerlendirmesini 
 - Kartlar yardımıyla toplam satış ve hedef değerleri ve hedef gerçekleşme oranı eklenmiştir.
 - Grafiklerde toplam satış ve toplam hedef değerleri karşılaştırmaları hedeflenmiştir.
 - Bölge ve şehir(şube kodu) bazında grafikler eklenerek genel bir bakış kazanılmaya çalışılmıştır.
+  
  ![Genel Bakış Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/genel%20bak%C4%B1%C5%9F-t%C3%BCm%C3%BC.png)
 
 ### Sayfa 2- Bölge Detayları
@@ -28,6 +29,7 @@ Bu proje, bir finans kurumunun kredi analizini ve performans değerlendirmesini 
 - Ay bazında performans metrikleri dinamik olarak tooltiplerle analiz edildi.
 - Yıllara göre satış trendleri grafiğinde yılın çeyreklerine göre toplam satış, toplam hedefin altında ise sarı renk, üstünde ise kırmızı renk ile dinamik bir tooltip oluşturulmuştur.
 - Aylara göre toplam satış ve satış hedefi analizi grafiğinde satış hedefi 1.10 sabit değer belirlenmiştir.
+  
    ![Bölge Detayları Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/b%C3%B6lge-ege.png)
   
 ### Sayfa 3- Performnas Analizi
@@ -58,11 +60,11 @@ CALCULATE(
 
 ## Nasıl Kullanılır?
 1. Bu repo'dan `ANA PROJE-SEDA GENBAŞI.pbix` dosyasını indir.
-2. Power BI Desktop'ta açıp ve inceleyebilirsiniz.
+2. Power BI Desktop'ta açıp, inceleyebilirsiniz.
 
 ## İletişim
 Sorularınız veya geri bildirimleriniz için bana ulaşabilirsiniz:  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/seda-genbasi-/))
+[LinkedIn](https://www.linkedin.com/in/seda-genbasi-/)
 
 
 
