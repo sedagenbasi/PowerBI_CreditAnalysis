@@ -50,7 +50,7 @@ CALCULATE(
     TOPN(1, SUMMARIZE('Şubeler', 'Şubeler'[Konum], "ToplamSatış", SUM(Krediler[Satış])), [ToplamSatış], DESC)
 )
 ```
-![Performans Analizi Sayfası]()
+![Performans Analizi Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/performans-en%20y%C3%BCksek.png)
 ## Proje Sonucu
 - Verilerin görselleştirilmesi ve analiz edilmesi sonucunda, kredi türleri, bölgesel ve şehir bazlı performanslar net bir şekilde ortaya konulmuştur.
 - Dinamik tooltipler ve etkileşimli raporlarla, kullanıcıların iş kararlarını destekleyecek içgörüler sağlanmıştır.
