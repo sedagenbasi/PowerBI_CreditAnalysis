@@ -53,6 +53,7 @@ CALCULATE(
 )
 ```
 ![Performans Analizi Sayfası](https://github.com/sedagenbasi/PowerBI_CreditAnalysis/blob/main/performans-en%20y%C3%BCksek.png)
+-Daha detaylı görselleri 'files' kısmında bulabilirsiniz.
 ## Proje Sonucu
 - Verilerin görselleştirilmesi ve analiz edilmesi sonucunda, kredi türleri, bölgesel ve şehir bazlı performanslar net bir şekilde ortaya konulmuştur.
 - Dinamik tooltipler ve etkileşimli raporlarla, kullanıcıların iş kararlarını destekleyecek içgörüler sağlanmıştır.
